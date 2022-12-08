@@ -1,6 +1,6 @@
 ## AWS-Cloud-Architecting-Capstone-Project
 
-### This project consists of deploying an application with the following requirements:
+### This project consists of deploying a PHP application with the following requirements:
 ### - Provide secure hosting of a MySQL database
 ### - Provide secure access to an administrative user
 ### - Provide anonymous access to public users
